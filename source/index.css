@@ -61,6 +61,7 @@ a {
   top: -32px;
 }
 
-li:first-letter .last-update {
-  text-transform: capitalize;
+.weather-temperature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
 }
