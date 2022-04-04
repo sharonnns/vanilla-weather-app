@@ -60,3 +60,7 @@ a {
   font-size: 16px;
   top: -32px;
 }
+
+li:first-letter .last-update {
+  text-transform: capitalize;
+}
