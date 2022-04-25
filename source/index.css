@@ -96,3 +96,16 @@ a {
   font-size: 16px;
   color: gray;
 }
+
+.weather-forecast-temp {
+  font-size: 13px;
+  text-align: center;
+}
+
+.weather-forecast-high {
+  color: #f95959;
+}
+
+.weather-forecast-low {
+  color: #5585b5;
+}
